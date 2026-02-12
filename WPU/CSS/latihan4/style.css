@@ -1,0 +1,12 @@
+/* body {
+    background-color: lightblue;
+    background-image: url(background/tree.png);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: 80%;
+} */
+
+body {
+    background: white url(background/tree.png) no-repeat bottom center;
+    background-size: 80%;
+}
