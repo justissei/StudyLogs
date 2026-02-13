@@ -1,24 +1,24 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-h1, h2 {
-    color: green;
+h1,
+h2 {
+  color: green;
 }
 
 ul li a {
-    color: orange;
+  color: orange;
 }
 
 ol li a {
-    color: red;
+  color: red;
 } /*  untuk menggunakan selector secara spesifik */
 
 #p1 {
-    color: orange;
+  color: orange;
 }
 
 .p2 {
-    color: red;
+  color: red;
 }
-
