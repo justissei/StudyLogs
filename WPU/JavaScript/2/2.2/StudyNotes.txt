@@ -1,0 +1,47 @@
+Judul : OPERATOR. (aritmatika, penugasan dan perbandingan.)
+
+OPERATOR dalam JAVASCRIPT adalah sebuah simbol yang digunakan untuk melakukan operasi.
+
+OPERATOR di JAVASCRIPT diantara lain aritmatika, penugasan, perbandingan, logika, string, kondisional, typeof.
+
+dalam operator di bagi jadi 3 tipe. 
+binary (aritmatika, penugasan, perbandingan, logika, string)
+ternary (kondisional)
+unary (typeof)
+
+operator binary membutuhkan 2 operand :
+operand1 operator operand2. contoh dalam matematik adalah 1 + 1
+
+operator unary membutuhkan 1 operand :
+operator operand atau operand operator. 
+
+operator ternary membutuhkan 3 operand. 
+
+
+operator aritmatika (matematik)
++, -, *, /, % (modulo/modulus/sisa bagi).
+note: urutan operasi matematika tetap berlaku. 
+
+operator penugasan / assignment
+=, +=, -=, /=, %=
+contoh:
+x = 10 (10 ditugaskan untuk berada di dalam variabel x) maka x itu adalah angka 10. 
+jika x itu 10, maka x += 5 hasilnya adalah 15. (x += y sama seperti x = x + y begitupun dengan yang lain).
+
+operator perbandingan
+== sama dengan
+!= tidak sama dengan
+=== strict sama dengan 
+!== strict tidak sama dengan
+> lebih besar dari
+< lebih kecil dari
+>= lebih besar sama dengan
+<= lebih kecil sama dengan
+opertor perbandingan akan menghasilkan boolean (true (jika benar), false (jika salah))
+10 == 10 // true
+10 == 15 // false
+10 != 10 // false
+10 != 15 // true
+10 == "10" // true karena js menganggap string "10" sebagai int
+10 === "10" // false karena js membandingkan identitasnya.
+dan seterusnya.

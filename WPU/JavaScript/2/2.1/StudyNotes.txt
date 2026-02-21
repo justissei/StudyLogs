@@ -1,0 +1,14 @@
+TIPE DATA PADA JAVASCRIPT : ANGKA 
+
+JAVASCRIPT bisa menyimpan angka tanpa desimal (10, 25, 200, 300, dst) yang akurat sampai 15 digit
+bisa juga angka tanpa desimal (3.14, 0.5, 100.00) angka maksimal dibelakang koma adalah 17 digit
+bisa juga exponen (123e5 // 12300000 atau 123e-5 // 0.00123)
+bisa menggunakan bilangan negatif juga.
+
+jangan menggunakan angka 0 di depan (022) karena akan di anggap sebagai bilangan oktal. maka output dari 022 adalah (18). bilangan oktal adalah bilangan yang di mulai dari angka 1 sampai 8.
+
+dan jangan juga menggunakan angka yang diawali 0x. karena akan di anggap sebagai bilangan hexadesimal. angka hexadesimal itu di mulai dari angka 1-9 dan kemudian a sampai f. dan jika menulis 0xff maka JAVASCRIPT akan mengeluarkan output 255.
+
+di JAVASCRIPT juga ada beberapa angka spesial. infinity, -infinity, NaN (Non a Number)
+jika kita membagi aknga positif dengan angka 0, maka hasilnya adalah infinity. (2:0 // infinity)
+begitupun dengan -infinity (-2:0 // -infinity). dan kalau 0 dibagi dengan o, akan menghasilkan output NaN. begitupula jika angka di bagi dengan sebuah string (100:"apel" // NaN). kecuali jika di dalam string tersebut terdapat sebuah angka. maka JAVASCRIPT akan menganggap itu sebagaimana angka pada mestinya (100:"10" // 10)
