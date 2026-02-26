@@ -1,0 +1,18 @@
+Judul : Kata Kunci Const Dan Var Untuk Variabel
+
+
+const tidak bisa di ubah nilainya. digunakan hanya untuk referensi yang tidak akan berubah. tidak seperti let. tapi fungsinya sama. yaitu mendeklarasikan sebuah variabel.
+
+const umur = 10
+maka value dari umur itu 10, dan tidak akan bisa di ubah. jika memaksa mengubah valuenya, maka akan terjadi error.
+
+umur += 1 // error.
+
+
+var juga memiliki fungsi yang sama, tapi sekarang sudah tidak di gunakan lagi. jadi bisa menggunakan let atau const untuk mendeklarasikan variabel
+
+dan const tidak bisa menyimpan variabel tanpa value, 
+contoh 
+const umur; // yang terjadi adalah error
+contoh yang benar adalah
+const umur = 10;

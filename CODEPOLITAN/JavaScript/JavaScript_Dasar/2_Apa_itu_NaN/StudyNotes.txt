@@ -1,0 +1,5 @@
+Judul : NaN
+
+NaN muncul dari operasi matematika yang tidak valid atau gagal menghasilkan angka yang tidak bermakna.
+
+NaN sendiri merupakan tipe data "numbers" di javascript, walaupun arti secara harfiah adalah "bukan angka"

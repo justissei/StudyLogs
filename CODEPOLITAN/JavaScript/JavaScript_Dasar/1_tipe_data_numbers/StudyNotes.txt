@@ -1,0 +1,3 @@
+Judul : tipe data numbers
+
+semua angka di javascript di sebut sebagai numbers.

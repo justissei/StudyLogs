@@ -1,0 +1,11 @@
+template for study notes
+
+Judul : OPERATOR PADA JAVASCRIPT : Logika, String, Typeof dan Kondisional
+
+operator logika.operator yang digunakan untuk operasi logika. 
+
+contoh operator
+&& (dan)
+|| (or)
+! not
+
