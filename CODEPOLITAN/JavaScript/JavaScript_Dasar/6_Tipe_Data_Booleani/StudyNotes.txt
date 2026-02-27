@@ -1,0 +1,6 @@
+
+Judul : tipe data booleani
+
+
+Tipe data boolean adalah tipe data dasar yang hanya memiliki dua nilai:
+true (benar) atau false (salah), yang digunakan untuk mengontrol alur program melalui pernyataan kondisional (logika). Boolean membantu komputer membuat keputusan, seperti "jika benar, lakukan X; jika salah, lakukan Y", yang sering diterapkan dalam struktur if-else.

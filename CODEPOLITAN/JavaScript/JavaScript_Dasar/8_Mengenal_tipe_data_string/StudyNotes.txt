@@ -1,0 +1,3 @@
+Judul : mengenal tipe data string
+
+untuk menggunakan string di javascript, harus menggunakan double quotes ("") atau single quotes ('')

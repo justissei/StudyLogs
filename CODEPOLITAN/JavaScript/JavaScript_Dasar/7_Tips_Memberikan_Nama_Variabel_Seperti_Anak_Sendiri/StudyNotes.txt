@@ -1,0 +1,6 @@
+
+Judul : Tips Memberikan Nama Variabel Seperti Anak Sendiri
+
+ketika membuat variabel, tidak disarankan menggunakan awalan angka.
+
+ada beberapa kata kunci yang tidak bisa di gunakan seperti properti, nama function yang sudah di definisikan oleh javascript. pastikan menulis suatu variabel dengan sesuatu yang deskriptif, tidak singkat dengan 1 atau 2 huruf saja dan ada beberapa style yang bisa di gunakan.
