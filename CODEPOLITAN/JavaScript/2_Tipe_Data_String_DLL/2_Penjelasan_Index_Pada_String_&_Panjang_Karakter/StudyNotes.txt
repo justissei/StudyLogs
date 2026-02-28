@@ -1,0 +1,22 @@
+
+Judul : penjelasan index pada string
+
+
+let name = "hakim"
+
+// hakim memiliki total huruf 5 (biasanya disebut length) dan index dihitung mulai dari angka 0.
+
+// cara kerja perhitungan index (di mulai dari angka 0)
+hakim
+01234
+
+// cara kerja perhitungan length (di mulai dari angka 1)
+hakim
+12345
+
+// spasi termasuk sebuah karakter di dalam string. jadi jika kita menambahkan spasi, maka akan ada indexnya juga. contohnya seperti
+let namaLengkap = "hakim gaje"
+0123456789 // total lengthnya adalah 10 karena spasi termasuk sebuah karakter. dan total indexnya adalah 9 karena dimulai dari angka 0
+
+
+kita bisa mendapatkan nilai string yang kita panggil menggunakan indeks, dan kitqa bisa mendapatkan panjangnya dengan menggunakan length

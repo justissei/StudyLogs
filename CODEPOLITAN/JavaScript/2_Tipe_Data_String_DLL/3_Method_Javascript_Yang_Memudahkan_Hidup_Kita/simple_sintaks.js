@@ -1,0 +1,1 @@
+'LeAvE mE'.toLowerCase // contoh outputnya ada di image.
